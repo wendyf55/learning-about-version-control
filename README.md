@@ -3,3 +3,5 @@
 Learning About Version Control
 
 Wendy Frankel
+
+solving merge conflicts is so hard
